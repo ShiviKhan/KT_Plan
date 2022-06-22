@@ -1,4 +1,4 @@
-# This is a sample R/Shiny script to show Domino's App publishing functionality.
+This is a sample R/Shiny script to show Domino's App publishing functionality.
 # You can publish an app by clicking on "Publish" and selecting "App" in your
 # quick-start project.
 
